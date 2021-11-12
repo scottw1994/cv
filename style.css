@@ -1,0 +1,25 @@
+/* this is an example of external css */
+body {
+  background-color: #4E9F3D;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+hr {
+  border-width: 5px;
+  border-style: dotted none none;
+  color: #D3D3D3;
+  width: 4%;
+}
+
+h1 {
+  font-style: italic;
+  color: ghostwhite;
+}
+
+h3 {
+  color: ghostwhite;
+}
